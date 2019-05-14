@@ -19,4 +19,4 @@ This app should have several menus where users can either
 
 For a walkthrough of this project please view the videos in the [codeworks backpack](https://backpack.boisecodeworks.com/#/videos/Getting%20Started%20with%20CSharp/5c911a0a9bdc1800153a3fc9)
 
-![backpack](backpack.png)
+![backpack](backpack.PNG)
