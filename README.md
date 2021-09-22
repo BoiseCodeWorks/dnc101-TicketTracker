@@ -20,3 +20,16 @@ This app should have several menus where users can either
 For a walkthrough of this project please view the videos in the [codeworks backpack](https://backpack.boisecodeworks.com/#/videos/Getting%20Started%20with%20CSharp/5c911a0a9bdc1800153a3fc9)
 
 ![backpack](backpack.PNG)
+
+## Legal Overview
+
+The content under the CodeWorks®, LLC Organization and all of the individual repos are soley intended for use by CodeWorks Instruction to deliver Educational content to CodeWorks Students.
+
+---
+
+## Copyright
+
+© CodeWorks® LLC, 2021. Unauthorized use and/or duplication of this material without express and written permission from CodeWorks, LLC is strictly prohibited.
+
+
+<img src="https://bcw.blob.core.windows.net/public/img/7815839041305055" width="125">
